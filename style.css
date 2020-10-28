@@ -45,3 +45,15 @@ p {
 .column {
     flex: 50%;
 }
+
+table {
+    margin-left: auto; 
+    margin-right: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, tr {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
