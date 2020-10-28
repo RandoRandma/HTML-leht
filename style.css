@@ -1,0 +1,47 @@
+﻿       
+h1{
+    font-family: 'Times New Roman';
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    color: lightblue;
+    text-align: center;
+}
+
+ol {
+    font-family: 'Arial';
+    text-align: center;
+}
+
+li {
+    color: darkslategray
+}
+
+a {
+    font-family: 'Arial';
+    display: block;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: 'Arial';
+    color: darkgray;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
